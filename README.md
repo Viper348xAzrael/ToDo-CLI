@@ -1,6 +1,6 @@
 # To-Do CLI
 
-A simple task management program written in Python
+A simple task management program written in Python, yes you can customize the program however you want, but Visual Studio Code is required to edit the program files
 
 ---
 
