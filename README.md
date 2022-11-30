@@ -10,7 +10,7 @@ Installation steps are easy, all you need to do is install the latest version of
 
 ---
 
-**Commands, Syntax & Description**
+### Commands, Syntax & Description
 
 | Command           | Syntax                          | Description                          |
 | ----------------- | ------------------------------- | ------------------------------------ |
